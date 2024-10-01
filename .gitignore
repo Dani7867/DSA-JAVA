@@ -1,2 +1,7 @@
 src/.DS_Store
 src/module-info.java
+.DS_Store
+.classpath
+.project
+bin/
+src/sorting/.DS_Store
