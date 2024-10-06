@@ -3,7 +3,6 @@ package arrays.Easy;
 import java.util.Arrays;
 //  task is to move all the zeros in the array to the end of the array and 
 //  move non-negative integers to the front by maintaining their order.
-import java.util.Arrays;
 
 public class ZeroMover {
 
